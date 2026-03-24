@@ -13,4 +13,4 @@ Output: false
 ## Technologies
 - Java
 - Loops
-- Conditional statements 
+- Conditional statements  
